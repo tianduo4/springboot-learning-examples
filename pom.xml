@@ -17,6 +17,7 @@
 
     <modules>
         <module>springboot-quickstart</module>
+        <module>springboot-docker</module>
     </modules>
 
     <dependencies>
